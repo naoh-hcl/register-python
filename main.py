@@ -7,6 +7,8 @@ import datetime
 from cryptography.fernet import Fernet
 import base64
 
+author = "Gokul B"
+
 #class PersonDetials:
 #    def __init__(self,username, passw, name, age, status, dob):
 #        """ This is where the persons information are stored may be a database that every information of users stored"""
